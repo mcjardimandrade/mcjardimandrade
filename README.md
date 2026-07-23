@@ -79,24 +79,6 @@ Olá! Meu nome é _Maria Clara Jardim de Andrade_ e sou de Pouso Alegre - Minas 
 
 ---
 
-# 📊 Estatísticas
-
-<p align="center">
-
-<img
-height="170em"
-src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
-/>
-
-<img
-height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=github_dark&hide_border=true&locale=pt-br"
-/>
-
-</p>
-
----
-
 # 🔥 Sequência de contribuições
 
 <p align="center">
