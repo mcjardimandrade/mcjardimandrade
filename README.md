@@ -79,16 +79,4 @@ Olá! Meu nome é _Maria Clara Jardim de Andrade_ e sou de Pouso Alegre - Minas 
 
 ---
 
-# 🔥 Sequência de contribuições
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=github-dark-blue&hide_border=true"
-/>
-
-</p>
-
----
-
 > *"A tecnologia, assim como a arte, é um grandioso exercício da imaginação humana." - Daniel Bell* 🚀
